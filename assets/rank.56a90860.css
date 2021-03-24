@@ -1,0 +1,1 @@
+.component-fade-enter-active{transition:opacity .3s ease;background:red}.component-fade-leave-active{transition:opacity .3s ease;background:#ff0}.component-fade-enter-from,.component-fade-leave-to{opacity:0;background:#ff0}.demo{font-family:sans-serif;border:1px solid #eee;border-radius:2px;padding:20px 30px;margin-top:1em;margin-bottom:40px;user-select:none;overflow-x:auto}
